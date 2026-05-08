@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on a Gym Planner App with Advance Features<br>👯 I’m looking to collaborate on the app for Ui/Ux<br>🌱 I’m currently learning Designing my self
+🔭 Currently working on a Gym Planner App built with Flutter<br>👯 If you want to help with design or testing then contact me.<br>🌱 Currently learning Designing my self with Figma.
 
 
 ## 🌐 Socials:
