@@ -1,4 +1,4 @@
-# Hi, I'm Joy 👋
+# Hi, I'm Harshit
 
 Mobile & Full Stack Developer building clean, user-focused applications with Flutter and modern web technologies.
 
