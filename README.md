@@ -36,4 +36,4 @@ Card management app with a security-first design approach.
 - Email: joy.0839b@gmail.com
 - X: [@Obrakar](https://x.com/Obrakar)
 - Instagram: [@perspicaciousguy](https://www.instagram.com/perspicaciousguy/)
-- LinkedIN: [@HarshitBishnoi](www.linkedin.com/in/harshitbishnoi)
+- LinkedIN: [@HarshitBishnoi](https://www.linkedin.com/in/harshitbishnoi)
