@@ -1,4 +1,4 @@
-# Harshit (PerspicaciousGuy)
+# Harshit
 
 Self-taught developer building full-stack, mobile, and desktop applications. Focused on shipping working products rather than tutorials — using AI-assisted development workflows across modern frontend, backend, and native technologies.
 
