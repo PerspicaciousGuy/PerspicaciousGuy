@@ -1,39 +1,74 @@
 # Harshit (PerspicaciousGuy)
 
-Self-taught developer building full-stack and mobile applications. Focused on shipping deployed, working products rather than tutorials — mostly using AI-assisted workflows to move fast across React/Next.js, React Native, Node.js/Express, Firebase, and Supabase.
+Self-taught developer building full-stack, mobile, and desktop applications. Focused on shipping working products rather than tutorials — using AI-assisted development workflows across modern frontend, backend, and native technologies.
 
-Currently looking for developer roles where I can contribute to real production systems.
+Currently looking for software engineering opportunities where I can contribute to real-world production systems.
 
 ---
 
 ## Projects
 
-**[GymPlanner](https://github.com/PerspicaciousGuy/GymPlanner)**
-Fitness planning PWA built with React and Firebase. Deployed and in active use.
+### [Gleam](https://github.com/PerspicaciousGuy/Gleam)
 
-**[exercises-api](https://github.com/PerspicaciousGuy/exercises-api)**
-Backend API serving exercise data.
+A fast, local-first file and application launcher for Windows, built with **Rust, Tauri 2, React, TypeScript, and SQLite**.
 
-**[audiobooks-player](https://github.com/PerspicaciousGuy/audiobooks-player)**
-Audiobook listening platform with Telegram-based content access, Node.js/Express backend, and Supabase.
+- Keyboard-driven search for files, folders, and applications.
+- Persistent SQLite indexing for fast local search.
+- Native Windows integration with global shortcuts and system tray controls.
+- No application telemetry or network-dependent search.
 
-**[card-wallet](https://github.com/PerspicaciousGuy/card-wallet)**
-Card management app with a security-first design approach.
+**Tech:** Rust · Tauri · React · TypeScript · SQLite
+
+### [Open-Muscle-Map](https://github.com/PerspicaciousGuy/Open-Muscle-Map)
+
+An open-source, interactive human muscle map designed for fitness applications, workout trackers, and anatomy visualization.
+
+- Male and female SVG muscle maps with front and rear views.
+- Selectable muscle regions with stable identifiers and metadata.
+- Muscle heatmaps, multi-selection, and keyboard accessibility.
+- Integration support for web applications, React Native, and WebViews.
+
+**Tech:** SVG · JavaScript · TypeScript · React Native
+
+**[Live Demo](https://perspicaciousguy.github.io/Open-Muscle-Map/)**
+
+### [GymPlanner](https://github.com/PerspicaciousGuy/GymPlanner)
+
+Fitness planning application built with React and Firebase, focused on workout organization and tracking.
+
+**Tech:** React · Firebase
+
+### [exercises-api](https://github.com/PerspicaciousGuy/exercises-api)
+
+Backend API designed to serve structured exercise data to fitness applications and other clients.
+
+### [card-wallet](https://github.com/PerspicaciousGuy/card-wallet)
+
+Digital card management application with a security-first design approach, focused on organizing personal cards and credentials.
 
 ---
 
-## Stack
+## Tech Stack
 
-**Frontend:** React, Next.js, TypeScript, JavaScript, Tailwind CSS
+**Languages:** TypeScript, JavaScript, Python, Rust, Kotlin, Dart
+
+**Frontend:** React, Next.js, Tailwind CSS
+
 **Mobile:** React Native, Expo, Flutter, Kotlin
+
+**Desktop:** Tauri
+
 **Backend:** Node.js, Express, FastAPI
-**Data:** Firebase, Supabase, PostgreSQL
+
+**Databases & Services:** PostgreSQL, SQLite, Firebase, Supabase
+
+**Development Tools:** Git, GitHub, Claude Code, Codex
 
 ---
 
 ## Contact
 
-- Email: joy.0839b@gmail.com
-- X: [@Obrakar](https://x.com/Obrakar)
-- Instagram: [@perspicaciousguy](https://www.instagram.com/perspicaciousguy/)
-- LinkedIN: [@HarshitBishnoi](https://www.linkedin.com/in/harshitbishnoi)
+- **Email:** joy.0839b@gmail.com
+- **LinkedIn:** [Harshit Bishnoi](https://www.linkedin.com/in/harshitbishnoi)
+- **X:** [@Obrakar](https://x.com/Obrakar)
+- **Instagram:** [@perspicaciousguy](https://www.instagram.com/perspicaciousguy/)
