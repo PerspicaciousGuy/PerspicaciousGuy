@@ -6,48 +6,6 @@ Currently looking for software engineering opportunities where I can contribute 
 
 ---
 
-## Projects
-
-### [Gleam](https://github.com/PerspicaciousGuy/Gleam)
-
-A fast, local-first file and application launcher for Windows, built with **Rust, Tauri 2, React, TypeScript, and SQLite**.
-
-- Keyboard-driven search for files, folders, and applications.
-- Persistent SQLite indexing for fast local search.
-- Native Windows integration with global shortcuts and system tray controls.
-- No application telemetry or network-dependent search.
-
-**Tech:** Rust · Tauri · React · TypeScript · SQLite
-
-### [Open-Muscle-Map](https://github.com/PerspicaciousGuy/Open-Muscle-Map)
-
-An open-source, interactive human muscle map designed for fitness applications, workout trackers, and anatomy visualization.
-
-- Male and female SVG muscle maps with front and rear views.
-- Selectable muscle regions with stable identifiers and metadata.
-- Muscle heatmaps, multi-selection, and keyboard accessibility.
-- Integration support for web applications, React Native, and WebViews.
-
-**Tech:** SVG · JavaScript · TypeScript · React Native
-
-**[Live Demo](https://perspicaciousguy.github.io/Open-Muscle-Map/)**
-
-### [GymPlanner](https://github.com/PerspicaciousGuy/GymPlanner)
-
-Fitness planning application built with React and Firebase, focused on workout organization and tracking.
-
-**Tech:** React · Firebase
-
-### [exercises-api](https://github.com/PerspicaciousGuy/exercises-api)
-
-Backend API designed to serve structured exercise data to fitness applications and other clients.
-
-### [card-wallet](https://github.com/PerspicaciousGuy/card-wallet)
-
-Digital card management application with a security-first design approach, focused on organizing personal cards and credentials.
-
----
-
 ## Tech Stack
 
 **Languages:** TypeScript, JavaScript, Python, Rust, Kotlin, Dart
